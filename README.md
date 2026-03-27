@@ -9,7 +9,7 @@ The dashboard provides insights into training impact, helping organizations make
 ---
 
 ## 🖼️ Dashboard Preview
-![L&D ROI Dashboard](./dashboard.png)
+![L&D ROI Dashboard](RoiDashboard.png)
 
 > 📌 Make sure your image is named `dashboard.png` and placed in the same repo folder  
 OR update the path accordingly.
